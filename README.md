@@ -3,7 +3,7 @@
 ## objetivo:
 
 * manipulação do DOM
-* web funciona 
+* funcionamento da web 
 * métodos GET, POST e DELETE.
 
 ## aprendido 
@@ -13,7 +13,7 @@
 * realização de requisições ao servidor (json-server).
 * Programação assíncrona
 * method e funções
-## passo
+## passos
 * criar interface pelo figma
 * criar Api(simular)
 * manipular e requisitar 
