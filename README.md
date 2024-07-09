@@ -19,12 +19,12 @@
 * manipular e requisitar 
 
 ### tecnologias usadas:
-*node
-*git
-*html,css e js
+* node
+* git
+* html,css e js
 ### faltou / construindo
 
-*metodo DELETE
+* metodo DELETE
 
 ## feito por Rayza-18 com orientações das alura do alura 
 
